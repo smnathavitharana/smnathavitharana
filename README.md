@@ -7,6 +7,5 @@
 </div>
 
 <div align="center">
-  :heart: Thanks for watching my profile! Have a nice day! :heart: <br />
-  &copy; 2025 Yogaprasad M K
+  &copy; 2025 Sanuth Nathavitharana
 </div>
