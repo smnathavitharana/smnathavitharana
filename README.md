@@ -9,18 +9,17 @@
 
 ```js
 
-import Aspiring SoftwareDeveloper from 'Yogaprasadmk';
+import Aspiring Software Engineer from 'smnathavitharana';
 
 class Bio extends Aspiring SoftwareDeveloper {
-  pronouns: "He" | "Him",
-  name     = 'Yogaprasad M K';
+  name     = 'Sanuth Nathavitharana';
   title    = 'Aspiring Software Engineer';
   company  = '';
-  location = ''
+  location = 'United Kingdom'
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'Java'];
+  languages  = ['C#', 'CSharp'];
   askMeAbout: ["web dev"],
   web technologies: {
         frontEnd: {
@@ -30,7 +29,7 @@ class Skills extends SoftwareDeveloper {
         },
         databases: ["Sql"],
     },
-    currentProject: "E-commerce Project Using MERN",
+    currentProject: "Bayview - Hotel Management System",
     funFact: "There are two ways to write error-free programs; only the third one works"
 }
 
