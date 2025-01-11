@@ -46,13 +46,7 @@ class Skills extends SoftwareDeveloper {
 <a href="https://discord.gg/4RSj6wk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4RSj6wk" height="30" width="40" /></a>
 </p>
 <hr/>
-<p></br></p>
-<p align="center">
-  <a href="https://in.linkedin.com/in/vidyabhandary" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vidyabhandary"/></a> 
-  <a href="https://vidyabhandary.medium.com" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="vidyabhandary" /></a> 
-  <a href="https://kaggle.com/vidyabhandary" target="blank"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=white" alt="vidyabhandary"/></a> 
-  <a href="https://dev.to/vidyabhandary" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="vidyabhandary"/></a>
-</p>
+
 <div align="center">
   &copy; 2025 Sanuth Nathavitharana
 </div>
